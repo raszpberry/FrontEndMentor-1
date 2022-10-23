@@ -1,0 +1,77 @@
+# FrontEndMentor Challenge #1
+
+# Frontend Mentor - Product preview card component solution
+
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [FrontEndMentor Challenge #1](#frontendmentor-challenge-1)
+- [Frontend Mentor - Product preview card component solution](#frontend-mentor---product-preview-card-component-solution)
+  - [Table of contents](#table-of-contents)
+- [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+  - [Author](#author)
+
+# Overview
+
+### The challenge
+
+> Users should be able to:
+  - View the optimal layout depending on their device's screen size
+  - See hover and focus states for interactive elements
+
+### Links
+
+- Solution URL: https://github.com/raszpberry/FrontEndMentor-1
+- Live Site URL: https://raszpberry.github.io/FrontEndMentor-1/
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+
+### What I learned
+
+It is good practice to see visualization of the occupying space of your elements through the use of:
+
+```css
+.this-minimizes-my-confusion {
+  border: 1px solid red;
+}
+```
+Also, this challenge improved and practiced my usage of css variables. 
+
+```css
+:root{
+    --need-more-of-these: '100%';
+}
+```
+
+### Continued development
+
+This challenge made me realize that I need to improve my use of media queries and to do a lot more of css variables as it could really help on reducing the amount of changes I need to modify.
+
+### Useful resources
+
+- [W3Schools](https://www.w3schools.com/) - This helped me grasp the css variable, flexbox, and css grid. A really good website for beginners like me.  
+
+## Author
+
+- Website - [Jonathan Golimlim | Rasz](https://raszpberry.github.io/rasz-web/#home)
+- GitHub - [Rasz | raszpberry](https://github.com/raszpberry)
+- CodePen - [Rasz | raszpberry](https://codepen.io/raszpberry)
+- Frontend Mentor - [@raszpberry](https://www.frontendmentor.io/profile/raszpberry)
+- Twitter - [@traszty](https://www.twitter.com/traszty)
+
