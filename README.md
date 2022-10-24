@@ -70,9 +70,10 @@ This challenge made me realize that I need to improve my use of media queries an
 
 ## Author
 
-- Website - [Jonathan Golimlim | Rasz](https://raszpberry.github.io/rasz-web/#home)
-- GitHub - [Rasz | raszpberry](https://github.com/raszpberry)
-- CodePen - [Rasz | raszpberry](https://codepen.io/raszpberry)
-- Frontend Mentor - [@raszpberry](https://www.frontendmentor.io/profile/raszpberry)
-- Twitter - [@traszty](https://www.twitter.com/traszty)
+- [Personal Website](https://raszpberry.github.io/rasz-web/#home)
+- [GitHub](https://github.com/raszpberry)
+- [CodePen](https://codepen.io/raszpberry)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/raszpberry)
+- [Twitter](https://www.twitter.com/traszty)
+- [Youtube](https://www.youtube.com/channel/UCoPKWMX2adD4bNw2njUdhBQ)
 
