@@ -1,16 +1,17 @@
-# FrontEndMentor Challenge #1
+# Web Developer Journey: FrontEnd Mentor Challenge #1
 
-# Frontend Mentor - Product preview card component solution
+## Frontend Mentor - Product preview card component solution
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
-- [FrontEndMentor Challenge #1](#frontendmentor-challenge-1)
-- [Frontend Mentor - Product preview card component solution](#frontend-mentor---product-preview-card-component-solution)
+- [Web Developer Journey: FrontEnd Mentor Challenge #1](#web-developer-journey-frontend-mentor-challenge-1)
+  - [Frontend Mentor - Product preview card component solution](#frontend-mentor---product-preview-card-component-solution)
   - [Table of contents](#table-of-contents)
 - [Overview](#overview)
     - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
@@ -26,6 +27,10 @@ This is a solution to the [Product preview card component challenge on Frontend 
 > Users should be able to:
   - View the optimal layout depending on their device's screen size
   - See hover and focus states for interactive elements
+
+### Screenshot
+![Mobile](./screenshots/solution-mobile.png).
+![Desktop](./screenshots/solution-desktop.png).
 
 ### Links
 
