@@ -31,7 +31,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 - Solution URL: https://github.com/raszpberry/FrontEndMentor-1
 - Live Site URL: https://raszpberry.github.io/FrontEndMentor-1/
-- Watch me doing this in timelapse at: https://youtu.be/wMFOdPcVdps
+- Watch me do this in timelapse at: https://youtu.be/wMFOdPcVdps
 
 ## My process
 
