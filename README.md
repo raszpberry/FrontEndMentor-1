@@ -5,10 +5,6 @@
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
-
-- [Web Developer Journey: FrontEnd Mentor Challenge #1](#web-developer-journey-frontend-mentor-challenge-1)
-  - [Frontend Mentor - Product preview card component solution](#frontend-mentor---product-preview-card-component-solution)
-  - [Table of contents](#table-of-contents)
 - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
